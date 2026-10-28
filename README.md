@@ -10,12 +10,20 @@ Selecciona una materia para consultar su índice temático, guías y ejercicios 
 
 | Materia | Enlace al Índice |
 | :--- | :---: |
+| **Formularios** | [Ver Contenidos ➔](./matematicas-1/README.md) |
 | **Matemáticas I (Cálculo Diferencial)** | [Ver Contenidos ➔](./matematicas-1/README.md) |
-| **Física III** | [Ver Contenidos ➔](./fisica-3/README.md) |
-| **Química General** | [Ver Contenidos ➔](./quimica-general/README.md) |
-| **Estadística** | [Ver Contenidos ➔](./estadistica/README.md) |
-| **Termodinámica** | [Ver Contenidos ➔](./termodinamica/README.md) |
-| **Mecánica de Fluidos** | [Ver Contenidos ➔](./mecanica-fluidos/README.md) |
+| **Matemática II** | [Ver Contenidos ➔](./fisica-3/README.md) |
+| **Matemática III (Cálculo Integral)** | [Ver Contenidos ➔](./quimica-general/README.md) |
+| **Matemática IV (Ecuaciones Diferenciales)** | [Ver Contenidos ➔](./estadistica/README.md) |
+| **Métodos Numéricos** | [Ver Contenidos ➔](./mecanica-fluidos/README.md) |
+| **Física I (Mecánica)** | [Ver Contenidos ➔](./termodinamica/README.md) |
+| **Física II (Electricidad y Magnetismo)** | [Ver Contenidos ➔](./mecanica-fluidos/README.md) |
+| **Física III (Oscilaciones y Ondas)** | [Ver Contenidos ➔](./mecanica-fluidos/README.md) |
+| **Estadística** | [Ver Contenidos ➔](./mecanica-fluidos/README.md) |
+| **Mecánica Vectorial (Mecánica Racional I)** | [Ver Contenidos ➔](./mecanica-fluidos/README.md) |
+| **Fisicoquímica** | [Ver Contenidos ➔](./mecanica-fluidos/README.md) |
+| **Termodinámica** | [Ver Contenidos ➔](./mecanica-fluidos/README.md) |
+| **Fenómenos de Transporte (Mecánica de Fluidos)** | [Ver Contenidos ➔](./mecanica-fluidos/README.md) |
 
 ---
 
