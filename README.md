@@ -4,7 +4,7 @@ Bienvenido a la biblioteca digital de ejercicios propuestos, guías prácticas y
 
 ---
 
-## 📐 Asignaturas Disponibles
+## Asignaturas Disponibles
 
 Selecciona una materia para consultar su índice temático, guías y ejercicios propuestos y resueltos:
 
@@ -27,5 +27,5 @@ Selecciona una materia para consultar su índice temático, guías y ejercicios 
 
 ---
 
-## 🌐 Enlaces Oficiales
-* 📅 **Horarios y Consultas:** [Ver Horario de Disponibilidad](https://github.com/tutoruniversitario/Horario-de-disponibilidad)
+## Información sobre los Cursos de Preparación para tus exámenes.
+
