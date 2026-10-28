@@ -18,7 +18,7 @@ Selecciona una materia para consultar su índice temático, guías y ejercicios 
 | **Métodos Numéricos** | [Ver Contenidos ➔](./mecanica-fluidos/README.md) |
 | **Física I (Mecánica)** | [Ver Contenidos ➔](./termodinamica/README.md) |
 | **Física II (Electricidad y Magnetismo)** | [Ver Contenidos ➔](./mecanica-fluidos/README.md) |
-| **Física III (Oscilaciones y Ondas)** | [Ver Contenidos ➔](./mecanica-fluidos/README.md) |
+| **Física III (Oscilaciones y Ondas)** | [Ver Contenidos ➔](https://github.com/tutoruniversitario/tutoruniversitario/blob/main/F%C3%ADsica%20III/README.md) |
 | **Estadística** | [Ver Contenidos ➔](./mecanica-fluidos/README.md) |
 | **Mecánica Vectorial (Mecánica Racional I)** | [Ver Contenidos ➔](./mecanica-fluidos/README.md) |
 | **Fisicoquímica** | [Ver Contenidos ➔](./mecanica-fluidos/README.md) |
