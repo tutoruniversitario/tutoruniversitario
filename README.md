@@ -10,20 +10,27 @@ Selecciona una materia para consultar su índice temático, guías y ejercicios 
 
 | Materia | Enlace |
 | :--- | :--- |
-| **Matemáticas I** |  |
-| **Física III** |  |
-| **Cálculo Avanzado** |  |
-| **Estadística** |  |
-| **Mecánica Fluidos** |  |
-| **Termodinámica** |  |
+| **Formularios** |  |
+| **Matemáticas I (Cálculo Diferencial)** |  |
+| **Matemática II (Cálculo Integral)** |  |
+| **Matemática III (Cálculo Vectorial)** |  |
+| **Matemática IV (Ecuaciones Diferenciales)** |  |
+| **Métodos Numéricos** |  |
+| **Física I (Mecánica)** |  |
+| **Física I (Mecánica)** |  |
+| **Física I (Mecánica)** |  |
+| **Física I (Mecánica)** |  |
+| **Física I (Mecánica)** |  |
+| **Física I (Mecánica)** |  |
+| **Física I (Mecánica)** |  |
 
-|**Formularios**|
-|**Matemáticas I (Cálculo Diferencial)**|
-|**Matemática II**|
-|**Matemática III (Cálculo Integral)**|
-|**Matemática IV (Ecuaciones Diferenciales)**|
-|**Métodos Numéricos**|
-|**Física I (Mecánica)**|
+
+||
+||
+||
+||
+||
+||
 |**Física II (Electricidad y Magnetismo)**|
 |**Física III (Oscilaciones y Ondas)**|
 |**Estadística**|
