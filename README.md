@@ -17,27 +17,13 @@ Selecciona una materia para consultar su índice temático, guías y ejercicios 
 | **Matemática IV (Ecuaciones Diferenciales)** |  |
 | **Métodos Numéricos** |  |
 | **Física I (Mecánica)** |  |
-| **Física I (Mecánica)** |  |
-| **Física I (Mecánica)** |  |
-| **Física I (Mecánica)** |  |
-| **Física I (Mecánica)** |  |
-| **Física I (Mecánica)** |  |
-| **Física I (Mecánica)** |  |
-
-
-||
-||
-||
-||
-||
-||
-|**Física II (Electricidad y Magnetismo)**|
-|**Física III (Oscilaciones y Ondas)**|
-|**Estadística**|
-|**Mecánica Vectorial (Mecánica Racional I)**|
-|**Fisicoquímica**|
-|**Termodinámica**|
-|**Fenómenos de Transporte (Mecánica de Fluidos)**|
+| **Física II (Electricidad y Magnetismo)** |  |
+| **Física III (Oscilaciones y Ondas)** |  |
+| **Estadística** |  |
+| **Mecánica Vectorial (Mecánica Racional I)** |  |
+| **Fisicoquímica** |  |
+| **Termodinámica** |  |
+| **Fenómenos de Transporte (Mecánica de Fluidos)** |  |
 
 ---
 
