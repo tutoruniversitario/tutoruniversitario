@@ -8,14 +8,14 @@ Bienvenido a la biblioteca digital de ejercicios propuestos, guías prácticas y
 
 Selecciona una materia para consultar su índice temático, guías y ejercicios propuestos y resueltos:
 
-| Materia |
+| Materia | Enlace |
 | :--- | :--- |
-| **Matemáticas I** | 
-| **Física III** | 
-| **Cálculo Avanzado** | 
-| **Estadística** | 
-| **Mecánica Fluidos** | 
-| **Termodinámica** | 
+| **Matemáticas I** |  |
+| **Física III** |  |
+| **Cálculo Avanzado** |  |
+| **Estadística** |  |
+| **Mecánica Fluidos** |  |
+| **Termodinámica** |  |
 
 |**Formularios**|
 |**Matemáticas I (Cálculo Diferencial)**|
