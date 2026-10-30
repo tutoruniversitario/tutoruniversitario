@@ -11,6 +11,8 @@ Selecciona una materia para consultar su índice temático, guías y ejercicios 
 | Materia | Enlace |
 | :--- | :--- |
 | **Formularios** |  |
+| **Álgebra Lineal** |  |
+| **Geometría Analítica** |  |
 | **Matemáticas I (Cálculo Diferencial)** |  |
 | **Matemática II (Cálculo Integral)** |  |
 | **Matemática III (Cálculo Vectorial)** |  |
@@ -21,6 +23,9 @@ Selecciona una materia para consultar su índice temático, guías y ejercicios 
 | **Física III (Oscilaciones y Ondas)** |  |
 | **Estadística** |  |
 | **Mecánica Vectorial (Mecánica Racional I)** |  |
+| **Química I** |  |
+| **Química II** |  |
+| **Química Analítica** |  |
 | **Fisicoquímica** |  |
 | **Termodinámica** |  |
 | **Fenómenos de Transporte (Mecánica de Fluidos)** |  |
