@@ -13,6 +13,19 @@ A continuación, puedes explorar los contenidos preparados para las siguientes a
 * **Matemática I** *(Cálculo Diferencial)*
 * **Matemática II** *(Cálculo Integral)*
 * **Matemática III** *(Cálculo Vectorial)*
+* **Matemática IV** *(Ecuaciones diferenciales)*
+* **Métodos Numéricos**
+* **Estadística**
+* **Física I**
+* **Física II**
+* **Física III**
+* **Química I**
+* **Química II**
+* **Mecánica Racional I** *(Mecánica Vectorial I)*
+* **Fisicoquímica**
+* **Termodinámica**
+* **Termodinámica Química**
+* **Fenómenos de Transporte**
 
 ---
 
