@@ -1,0 +1,30 @@
+# ¡Bienvenido/a a tu Espacio de Aprendizaje Académico! 📚✨
+
+Te doy la más cordial bienvenida a este portal educativo diseñado para acompañarte, apoyarte e impulsarte en tu camino universitario. Aquí encontrarás recursos, materiales de estudio y guías desarrolladas para facilitarte el dominio de las ciencias exactas.
+
+---
+
+## 🎯 Materias Disponibles
+
+A continuación, puedes explorar los contenidos preparados para las siguientes asignaturas:
+
+* **Álgebra Lineal**
+* **Geometría Analítica**
+* **Matemática I** *(Cálculo Diferencial)*
+* **Matemática II** *(Cálculo Integral)*
+* **Matemática III** *(Cálculo Vectorial)*
+
+---
+
+## 🤝 Asesorías Académicas Universitarias
+
+¿Tienes dudas con algún tema, quieres preparar tus exámenes con tiempo o necesitas resolver guías de ejercicios? ¡No estás solo/a en este proceso!
+
+Te invito a participar activamente en nuestras **asesorías académicas universitarias**. Son espacios personalizados donde podrás:
+
+1. Resolver tus dudas paso a paso.
+2. Reforzar los conceptos teóricos clave de cada materia.
+3. Aprender estrategias prácticas para la resolución de problemas de examen.
+
+> 📌 **¡Agenda tu cita o únete a nuestras sesiones semanales!**  
+> Tu disciplina junto con el acompañamiento correcto marcan la diferencia. ¡Aprovecha estos espacios de apoyo y alcancemos juntos la excelencia académica!
