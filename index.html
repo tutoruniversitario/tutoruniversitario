@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Notas y Guías Académicas</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Tema visual de Docsify -->
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  <!-- Estilos para LaTeX (KaTeX) -->
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/katex@latest/dist/katex.min.css">
+</head>
+<body>
+  <div id="app">Cargando...</div>
+  <script>
+    window.$docsify = {
+      name: 'Mi Sitio Académico',
+      repo: '',
+      loadSidebar: true, // Habilita la barra lateral desde _sidebar.md
+      subMaxLevel: 3,    // Extrae los encabezados (#, ##) de cada página para el menú
+      search: {
+        placeholder: 'Buscar tema o ejercicio...'
+      }
+    }
+  </script>
+  <!-- Script principal de Docsify -->
+  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <!-- Plugin de búsqueda -->
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+  <!-- Plugin de LaTeX -->
+  <script src="//cdn.jsdelivr.net/npm/docsify-katex@latest/dist/docsify-katex.js"></script>
+</body>
+</html>
