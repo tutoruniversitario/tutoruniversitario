@@ -26,7 +26,7 @@
 
   * **[Física II: Electricidad y Magnetismo](fisica/electricidad-magnetismo/README.md)**
 
-  * **[Física III: Oscilaciones y Ondas](./fisica-iii/README.md)**
+  * **[Física III: Oscilaciones y Ondas](https://github.com/tutoruniversitario/Fisica-III/blob/main/README.md)**
 
 ---
 
