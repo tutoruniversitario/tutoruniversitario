@@ -8,7 +8,7 @@
 * **[ESTADÍSTICA](matematicas/algebra-lineal/README.md)**
 * **[FÍSICA I (MECÁNICA)](matematicas/algebra-lineal/README.md)**
 * **[FÍSICA II (ELECTRICIDAD Y MAGNETISMO)](matematicas/algebra-lineal/README.md)**
-* **[FÍSICA III (OSCILACIONES Y ONDAS)]([matematicas/algebra-lineal/README.md](https://github.com/tutoruniversitario/Fisica-III/blob/main/README.md))**
+* **[FÍSICA III (OSCILACIONES Y ONDAS)](https://github.com/tutoruniversitario/Fisica-III/blob/main/README.md))**
 * **[MECÁNICA VECTORIAL](matematicas/algebra-lineal/README.md)**
 * **[QUÍMICA I](matematicas/algebra-lineal/README.md)**
 * **[QUÍMICA II](matematicas/algebra-lineal/README.md)**
