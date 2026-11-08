@@ -1,44 +1,18 @@
-* **[🏠 Inicio / Bienvenida](README.md)**
-
----
-
-* **🧮 MATEMÁTICAS**
-  * **[Álgebra Lineal](matematicas/algebra-lineal/README.md)**
-
-  * **[Geometría Analítica](matematicas/geometria-analitica/README.md)**
-
-  * **[Matemática I: Cálculo Diferencial](matematicas/calculo-diferencial/README.md)**
-
-  * **[Matemática II: Cálculo Integral](matematicas/calculo-integral/README.md)**
-
-  * **[Matemática III: Cálculo Vectorial](matematicas/calculo-vectorial/README.md)**
-  
-  * **[Matemática IV: Ecuaciones Diferenciales](matematicas/ecuaciones-diferenciales/README.md)**
-  
-  * **[Métodos Numéricos](matematicas/metodos-numericos/README.md)**
- 
-  * **[Estadística](matematicas/estadistica/README.md)**
-
----
-
-* **⚡ FÍSICA**
-  * **[Física I: Mecánica](fisica/mecanica/README.md)**
-
-  * **[Física II: Electricidad y Magnetismo](fisica/electricidad-magnetismo/README.md)**
-
-  * **[Física III: Oscilaciones y Ondas](https://github.com/tutoruniversitario/Fisica-III/blob/main/README.md)**
-
----
-
-* **🧪 QUÍMICA Y TERMODINÁMICA**
-  * **[Química I](quimica/quimica-1/README.md)**
-
-  * **[Química II](quimica/quimica-2/README.md)**
-
-  * **[Fisicoquímica](quimica/fisicoquimica/README.md)**
-
-  * **[Termodinámica General](termodinamica/general/README.md)**
-
-  * **[Termodinámica Química](termodinamica/quimica/README.md)**
-
-  * **[Fenómenos de Transporte](ingenieria/fenomenos-transporte/README.md)**
+* **[ALGEBRA LINEAL](matematicas/algebra-lineal/README.md)**
+* **[GEOMETRÍA ANALÍTICA](matematicas/algebra-lineal/README.md)**
+* **[MATEMÁTICA I (CÁLCULO DIFERENCIAL)](matematicas/algebra-lineal/README.md)**
+* **[MATEMÁTICA II (CÁLCULO INTEGRAL)](matematicas/algebra-lineal/README.md)**
+* **[MATEMÁTICA III (CÁLCULO VECTORIAL)](matematicas/algebra-lineal/README.md)**
+* **[MATEMÁTICA IV (ECUACIONES DIFERENCIALES)](matematicas/algebra-lineal/README.md)**
+* **[MÉTODOS NUMÉRICOS](matematicas/algebra-lineal/README.md)**
+* **[ESTADÍSTICA](matematicas/algebra-lineal/README.md)**
+* **[FÍSICA I (MECÁNICA)](matematicas/algebra-lineal/README.md)**
+* **[FÍSICA II (ELECTRICIDAD Y MAGNETISMO)](matematicas/algebra-lineal/README.md)**
+* **[FÍSICA III (OSCILACIONES Y ONDAS)]([matematicas/algebra-lineal/README.md](https://github.com/tutoruniversitario/Fisica-III/blob/main/README.md))**
+* **[MECÁNICA VECTORIAL](matematicas/algebra-lineal/README.md)**
+* **[QUÍMICA I](matematicas/algebra-lineal/README.md)**
+* **[QUÍMICA Ii](matematicas/algebra-lineal/README.md)**
+* **[FISICOQUÍMICA](matematicas/algebra-lineal/README.md)**
+* **[TERMODINÁMICA](matematicas/algebra-lineal/README.md)**
+* **[TERMODINÁMICA QUÍMICA](matematicas/algebra-lineal/README.md)**
+* **[FENÓMENOS DE TRANSPORTE](matematicas/algebra-lineal/README.md)**
