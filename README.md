@@ -31,7 +31,7 @@ Para apoyarte en cada etapa de tu formación académica, hemos estructurado los 
 | :--- | :--- |
 | 📝 **Ejercicios Propuestos** | Desafíos diseñados para poner a prueba tus conocimientos y desarrollar tu pensamiento crítico. |
 | ✅ **Ejercicios Resueltos** | Soluciones paso a paso para guiarte en la resolución de problemas complejos. |
-| 📚 **Apuntes de Clase** | Resúmenes teóricos, fórmulas y esquemas organizados por materia para facilitar tu estudio. |
+| 📚 **Fundamentos Teóricos** | Resúmenes teóricos, fórmulas y esquemas organizados por materia para facilitar tu estudio. |
 | 📝 **Exámenes y Prácticas** | Evaluaciones pasadas y simulacros para preparar tus parciales con total confianza. |
 
 ---
