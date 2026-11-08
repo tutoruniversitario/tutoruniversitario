@@ -2,7 +2,7 @@
 
   ![Ingeniería y Tecnología](https://images.unsplash.com/photo-1581092160607-ee22621dd758?q=80&w=1000&auto=format&fit=crop)
 
-  <h1 style="font-size: 2.8em; margin-bottom: 10px; border-bottom: 2px solid #00d2ff; display: inline-block; padding-bottom: 10px;">
+  <h1 style="font-size: 2.8em; margin-bottom: 10px; border-bottom: 2px solid #00d2ff; display: inline-block; padding-bottom: 10px; color: #e0e0e0;">
 ¡Bienvenido al Portal de Ingeniería!
   </h1>
 
