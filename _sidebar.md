@@ -1,4 +1,4 @@
-[__Ubicación de nuestras oficinas.__](https://maps.app.goo.gl/pzjJ5FLQXaiRFSv1A)
+📍 [__Ubicación de nuestras oficinas.__](https://maps.app.goo.gl/pzjJ5FLQXaiRFSv1A)
 
 [__Horario de disponibilidad para cursos.__](https://github.com/tutoruniversitario/Centro-de-adiestramiento/blob/main/Horario.md)
 
