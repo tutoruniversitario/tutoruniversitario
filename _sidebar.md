@@ -2,7 +2,7 @@
 
 🗓️ [__Horario de disponibilidad para cursos.__](https://github.com/tutoruniversitario/Centro-de-adiestramiento/blob/main/Horario.md)
 
-__Lista de Materias:__
+📚 __Lista de Materias:__
 * **[ALGEBRA LINEAL](matematicas/algebra-lineal/README.md)**
 * **[GEOMETRÍA ANALÍTICA](matematicas/algebra-lineal/README.md)**
 * **[MATEMÁTICA I (CÁLCULO DIFERENCIAL)](matematicas/algebra-lineal/README.md)**
