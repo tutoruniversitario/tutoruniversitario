@@ -46,12 +46,5 @@ Para apoyarte en cada etapa de tu formación académica, hemos estructurado los 
 
 ---
 
-<div align="center">
-
-<img width="996" height="332" alt="jovenes-estudiando-usando-laptop_29122023" src="https://github.com/user-attachments/assets/f34ff4e2-033d-4f43-950c-8089901ae61c" />
-
-
   ### 🏆 ¡El éxito depende de tu esfuerzo diario!
   *Explora el menú, aprovecha al máximo los recursos y da lo mejor de ti en cada materia.*
-
-</div>
